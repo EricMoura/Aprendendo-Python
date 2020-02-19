@@ -1,3 +1,5 @@
 # Aprendendo-Python
-  Créditos: Professor Guanabara \n
+
+  Créditos: Professor Guanabara
+  
   Link: https://www.youtube.com/user/cursosemvideo
